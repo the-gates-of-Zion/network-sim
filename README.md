@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Current states
+https://reactflow.dev/learn/tutorials/react-flow-and-the-web-audio-api
+#Zustand 
+
 ## Available Scripts
 
 In the project directory, you can run:
